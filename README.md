@@ -17,3 +17,5 @@ Passo a Passo: Lista numerada detalhando o modo de preparo.
 Design Responsivo: A página se ajusta bem tanto em desktops quanto em dispositivos móveis.
 
 Destaques Visuais: Uso de cores contrastantes para separar o tempo de preparo das informações nutricionais.
+
+📸 Demonstração
